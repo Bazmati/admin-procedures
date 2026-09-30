@@ -4,6 +4,7 @@
 # Veille de securite Debian/Ubuntu : lister les mises a jour disponibles
 # et verifier l'etat du service unattended-upgrades.
 # Usage : ./veille-maj-securite.sh  (lancer avec un compte pouvant apt)
+# exécutables : `chmod +x scripts/*.sh`
 # -----------------------------------------------------------------------------
 set -euo pipefail
 

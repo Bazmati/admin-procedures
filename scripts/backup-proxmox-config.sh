@@ -4,6 +4,7 @@
 # Sauvegarde de la configuration d'un hote Proxmox VE
 # (fichiers /etc/pve, config reseau, storage) vers un dossier horodate.
 # A planifier via cron, ex. :  30 2 * * *  /root/scripts/backup-proxmox-config.sh
+# exécutables : `chmod +x scripts/*.sh`
 # -----------------------------------------------------------------------------
 set -euo pipefail
 
