@@ -16,7 +16,7 @@ Il s'agit de procédures que j'utilise et enrichis dans la pratique : chaque ret
 | `scripts/`          | [Scripts d'administration](scripts/PROCEDURE-powershell.md)        | PowerShell (et Bash) : recettes prêtes à l'emploi              |
 | `materiel/`         | [Baie &amp; éléments actifs](materiel/PROCEDURE-baie-switches.md)  | Montage de baie, switches, pare-feu, dépannage réseau physique |
 | `exploitation/`     | [Gestion d'incidents](exploitation/PROCEDURE-incidents.md)         | Processus d'incident, checklist de préparation de salle        |
-
+| `hebergement/`      | [IPV6](hebergement/PROCEDURE-ipv6.md)                              | Exposer un serveur auto-hébergé en IPv6 (Linux/Nginx)          |
 
 ## 🧭 Format des procédures
 
