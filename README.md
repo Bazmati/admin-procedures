@@ -51,8 +51,7 @@ Chaque procédure suit toujours le même plan, pour être exploitable **pendant*
 MIT — réutilisez librement, mention appréciée.
 
 ## 📇 À propos
-
 Basile Malin — administrateur systèmes &amp; réseaux / développeur.  
-Profil : [bazmati.github.io/basile-malin-cv-2026](https://bazmati.github.io/basile-malin-cv-2026/)
+Profil : [bazmati.github.io/basile-malin-cv-2026](https://bazmati.github.io/basile-malin-cv-2026/) · Blog : [basile-malin.fr](https://basile-malin.fr)
 
 > ⚠️ Ces procédures sont fournies à titre indicatif : adaptez-les à votre environnement et testez toujours en environnement hors production avant généralisation.
