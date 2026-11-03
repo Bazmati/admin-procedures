@@ -9,7 +9,8 @@ Il s'agit de procédures que j'utilise et enrichis dans la pratique : chaque ret
 
 | Dossier             | Procédure                                                          | Contenu                                                        |
 | ------------------- | ------------------------------------------------------------------ | -------------------------------------------------------------- |
-| `proxmox/`          | [Proxmox VE](proxmox/PROCEDURE-proxmox.md)                         | Installation, VM/LXC, cluster, sauvegardes, dépannage          |
+| `proxmox/`          | [Proxmox VE](proxmox/PROCEDURE-proxmox.md)                         |                                                                |
+|                     | [Migration VM → CT](proxmox/PROCEDURE-migration-vm-vers-ct.md)     | Installation, VM/LXC, cluster, sauvegardes, dépannage ·        |
 | `hyperv/`           | [Hyper-V](hyperv/PROCEDURE-hyperv.md)                              | Rôle Hyper-V, commutateurs virtuels, checkpoints, réplication  |
 | `active-directory/` | [Active Directory](active-directory/PROCEDURE-active-directory.md) | Forêt AD, OU, GPO, gestion des droits, comptes stagiaires      |
 | `reseau/`           | [DNS](reseau/PROCEDURE-dns.md) · [DHCP](reseau/PROCEDURE-dhcp.md)  | Zones, réservations, étendues, relais, pannes classiques       |
@@ -17,6 +18,7 @@ Il s'agit de procédures que j'utilise et enrichis dans la pratique : chaque ret
 | `materiel/`         | [Baie &amp; éléments actifs](materiel/PROCEDURE-baie-switches.md)  | Montage de baie, switches, pare-feu, dépannage réseau physique |
 | `exploitation/`     | [Gestion d'incidents](exploitation/PROCEDURE-incidents.md)         | Processus d'incident, checklist de préparation de salle        |
 | `hebergement/`      | [IPV6](hebergement/PROCEDURE-ipv6.md)                              | Exposer un serveur auto-hébergé en IPv6 (Linux/Nginx)          |
+|                     | [Reverse proxy](hebergement/PROCEDURE-reverse-proxy.md)            | **TLS au proxy, proxy_pass, certbot, ajouter un domaine**      |
 
 ## 🧭 Format des procédures
 
